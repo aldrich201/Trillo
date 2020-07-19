@@ -1,2 +1,2 @@
 [build]
-    publish="starter"
+    publish="starter/public"
